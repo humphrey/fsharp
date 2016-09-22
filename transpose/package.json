@@ -1,0 +1,23 @@
+{
+  "name": "transpose",
+  "version": "1.0.0",
+  "description": "I am using chord and note transposition as an excuse to learn F#",
+  "main": "transpose.js",
+  "dependencies": {
+    "fable-core": "^0.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humphrey/fsharp.git"
+  },
+  "author": "Humphrey Murray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/humphrey/fsharp/issues"
+  },
+  "homepage": "https://github.com/humphrey/fsharp#readme"
+}
