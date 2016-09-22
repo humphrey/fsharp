@@ -57,4 +57,3 @@ let TransposeNote note semitones style =
 printfn "C transposed by +5 is %s" (TransposeNote "C" 5 "#")
 printfn "D transposed by -2 is %s" (TransposeNote "D" -2 "#")
 printfn "A transposed by +1 is %s" (TransposeNote "A" 1 "b")
-
